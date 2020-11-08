@@ -1,0 +1,43 @@
+{
+  "common": {
+    "submit": "submit",
+    "cancel": "cancel",
+    "close": "Close",
+    "confirm": "confirm",
+    "transfer_success": "You have transferred successfully!",
+    "transfer_error": "Your account balance must not be less than $ -500.00."
+  },
+  "transfer": {
+    "form.make_a_transfer": "Make a Transfer",
+    "form.from_account": "from account",
+    "form.from_account_place": "from account",
+    "form.to_account": "to account",
+    "form.to_account.invalid": "input value for to_account invalid",
+    "form.to_account_place": "to account",
+    "form.amount": "amount",
+    "form.amount.invalid": "input value for amount invalid",
+    "form.amount_place": "amount",
+    "list.recent_transactions": "Recent Transactions",
+    "list.search_typing": "Search by typing...",
+    "list.not_transactions": "No transactions",
+    "sort_by_text": "Sort by",
+    "beneficary": "Beneficiary",
+    "amount": "Amount",
+    "date":" Date",
+    "error_to_account": "To account input invalid",
+    "error_amount": "Amount input invalid",
+    "to_account_text": "To account",
+    "from_account_text": "From account",
+    "confirm_transaction": "Confirm transaction",
+    "description_title": "Description",
+    "description_content": "This transaction will set backbase image for default",
+    "transaction_fee": "Transaction fee",
+    "make_transfer": "Make a Transfer",
+    "successed_title": "Transaction Successed",
+    "successfully": "You have transfered successfully!",
+    "execution_time": "Execution time",
+    "home": "Home",
+    "balance_is_not_sufficient": "Your account balance must not be less than $ -500.00 . Please try again.",
+    "transaction_detail": "Transaction detail"
+  }
+}
